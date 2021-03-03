@@ -152,7 +152,17 @@ main {
     max-width: 150px;
 } */
 
-.search-engine-optimization {
+/* Consolidate main section styles */
+main section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -177,9 +187,14 @@ main {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+} */
+
+/* Consolidate main section img styles */
+main section img {
+    max-height: 200px;
 }
 
-.search-engine-optimization img {
+/* .search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -189,9 +204,15 @@ main {
 
 .social-media-marketing img {
     max-height: 200px;
+} */
+
+/* Consolidate main section h2 styles */
+main section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
-.search-engine-optimization h2 {
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -204,7 +225,7 @@ main {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 footer {
     padding: 30px;
